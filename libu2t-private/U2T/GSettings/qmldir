@@ -1,0 +1,3 @@
+module U2T.GSettings
+plugin U2T.GSettings
+typeinfo plugins.qmltypes

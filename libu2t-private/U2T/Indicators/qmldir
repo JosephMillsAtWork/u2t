@@ -1,0 +1,10 @@
+module Ut2.Indicators
+SettingsIndicator 1.0 SettingsIndicator.qml
+PowerIndicator 1.0 PowerIndicator.qml
+NetworkIndicator 1.0 NetworkIndicator.qml
+KeyboardIndicator 1.0 KeyboardIndicator.qml
+CalenderIndicator 1.0 CalenderIndicator.qml
+BatteryIndicator 1.0 BatteryIndicator.qml
+IndicatorButton 1.0 IndicatorButton.qml
+SoundIndicator 1.0 SoundIndicator.qml
+SpeechToTextIndicator 1.0 SpeechToTextIndicator.qml

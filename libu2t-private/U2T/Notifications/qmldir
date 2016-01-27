@@ -1,0 +1,3 @@
+module U2T.Notifications
+plugin U2T.Notifications
+typeinfo plugins.qmltypes

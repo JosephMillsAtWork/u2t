@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>LauncherLoader.qml</file>
+        <file>DashLoader.qml</file>
+        <file>Pannel.qml</file>
+        <file>launcher/defaultLauncher.qml</file>
+        <file>launcher/LauncherItem.qml</file>
+        <file>artwork/distributor-logo-debian.png</file>
+        <file>dash/Dash.qml</file>
+        <file>dash/GridComponent.qml</file>
+        <file>dash/U2tSettings.qml</file>
+        <file>dash/Settings/BaseSettings.qml</file>
+        <file>dash/Settings/SettingHelper.qml</file>
+        <file>artwork/user-trash.png</file>
+        <file>pannel/Battery.qml</file>
+        <file>notifications/NotificationView.qml</file>
+        <file>notifications/NotificationCard.qml</file>
+        <file>notifications/SystemNotifications.qml</file>
+        <file>notifications/SystemNotification.qml</file>
+        <file>pannel/Hardware.qml</file>
+    </qresource>
+</RCC>

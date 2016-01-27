@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=U2T
+Comment=QtQuick and Wayland based desktop environment
+Exec=/usr/bin/u2t-session
+TryExec=/usr/bin/u2t-session
+Icon=start-here
+Type=Application

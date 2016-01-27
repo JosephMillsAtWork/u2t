@@ -1,0 +1,3 @@
+module U2T.Menu
+plugin U2T.Menu
+typeinfo plugins.qmltypes

@@ -1,0 +1,3 @@
+module U2T.Accessibility.ScreenReader
+plugin U2T.Accessibility.ScreenReader
+typeinfo plugins.qmltypes

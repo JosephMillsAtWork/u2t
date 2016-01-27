@@ -1,0 +1,3 @@
+module U2T.Hardware
+plugin U2T.Hardware
+typeinfo plugins.qmltypes

@@ -1,0 +1,3 @@
+module U2T.System
+plugin U2T.System
+typeinfo plugins.qmltypes

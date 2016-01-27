@@ -1,0 +1,16 @@
+[SddmGreeterTheme]
+Type=sddm-theme
+Name=lightsddm
+Description=Official theme for U2T
+Author=Joseph Mills
+Email=josephjamesmills@gmail.com
+Copyright=(C) 2016 Joseph Mills
+License=LGPLv3
+Version=0.1
+Website=http://papyros.io
+Screenshot=screenshot.jpg # TODO: Take screenshot!
+ConfigFile=theme.conf
+MainScript=Main.qml
+TranslationsDirectory=translations
+Theme-Id=lightsddm
+Theme-API=2.0

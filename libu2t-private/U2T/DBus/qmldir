@@ -1,0 +1,4 @@
+module U2T.DBus
+plugin U2T.DBus
+typeinfo plugins.qmltypes
+

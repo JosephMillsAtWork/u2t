@@ -1,0 +1,8 @@
+module U2T.Components
+typeinfo plugins.qmltypes
+IconButton 1.0 IconButton.qml
+Popover 1.0 Popover.qml
+Tooltip 1.0 Tooltip.qml
+PopupBase 1.0 PopupBase.qml
+TTSHelper 1.0 TTSHelper.qml
+U2TObject 1.0 U2TObject.qml

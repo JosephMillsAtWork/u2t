@@ -1,0 +1,4 @@
+module U2T.Dialogs
+typeinfo plugins.qmltypes
+SystemSettingsDialog 1.0 SystemSettingsDialog.qml
+SystemSettingsMain 1.0 SystemSettingsMain.qml
